@@ -1,0 +1,17 @@
+{
+  "lastChecks": {
+    "subAgents": 1771140825,
+    "memoryMaintenance": 1771144523,
+    "calendar": 1771142665
+  },
+  "checkRotation": [
+    "subAgents",
+    "calendar",
+    "memoryMaintenance"
+  ],
+  "nextCheck": "subAgents",
+  "alerts": [
+    "daily-sync missed runs Feb 10-14 (next run: ~1hr)",
+    "weekly-memory-review scheduled: ~1hr (Sun 5 AM EST)"
+  ]
+}
