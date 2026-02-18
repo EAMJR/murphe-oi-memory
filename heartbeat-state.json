@@ -1,10 +1,10 @@
 {
   "lastChecks": {
-    "subAgents": 1771316082,
-    "memoryMaintenance": 1771310682,
-    "calendar": 1771316082,
-    "dailySync": 1771146000
+    "subAgents": 1771383848,
+    "memoryMaintenance": 1771383848,
+    "calendar": 1771382048,
+    "dailySync": 1771318800
   },
   "checkRotation": ["subAgents", "calendar", "memoryMaintenance"],
-  "nextCheck": "memoryMaintenance"
+  "nextCheck": "subAgents"
 }
