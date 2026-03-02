@@ -1,10 +1,12 @@
 {
   "lastChecks": {
-    "subAgents": 1772305880,
-    "memoryMaintenance": 1772312180,
-    "calendar": 1772312180,
-    "dailySync": 1772010000
+    "subAgents": 1772434200,
+    "memoryMaintenance": 1772437800,
+    "calendar": 1772436000,
+    "dailySync": 1772010000,
+    "pairing": 1772439600,
+    "gitStatus": 1772441400
   },
-  "checkRotation": ["subAgents", "calendar", "memoryMaintenance"],
+  "checkRotation": ["subAgents", "calendar", "memoryMaintenance", "pairing", "gitStatus"],
   "nextCheck": "subAgents"
 }
